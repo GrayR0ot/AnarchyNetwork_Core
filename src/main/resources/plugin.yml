@@ -1,0 +1,8 @@
+name: AnarchyCore
+main: eu.grayroot.anarchycore.AnarchyCore
+version: 1.0
+author: GrayRoot
+commands:
+  hub:
+  report:
+  vote:
